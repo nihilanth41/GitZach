@@ -13,6 +13,6 @@ int main(int argc, char **argv) {
 	double area = (double)(PI)*pow(radius, 2);
 	printf("Area of a circle with radius %lf is: %lf\n", radius, area);
 
-	return EXIT_SUCCESS;
+	return 0;
 }
 	
